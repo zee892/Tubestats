@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Video Statistics Checker",
+  "description": "Analyze any YouTube video instantly for views, likes, comments, engagement rate, tag extraction, sentiment, and SEO optimization metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
